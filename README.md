@@ -1,21 +1,23 @@
 ### Hi there 👋
 
+<h1 align="center">Hi 👋, I'm ink</h1>
+
+<p align="center">
+<a href="https://kaggle.com/inkhuang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="inkhuang" height="20" width="20" /></a>
+</p>
+
+### 最新的博客文章
+<!-- BLOG-POST-LIST:START -->
+- [Linux 如何使用capabilities机制实现进程权限管理](http://www.ink-hz.cn/2021/08/02/Linux/Linux_capabilities/)
+- [【算法】常见排序算法分析](http://www.ink-hz.cn/2020/10/14/algorithm/sort/)
+- [Linux coredump机制](http://www.ink-hz.cn/2020/08/08/Linux/Linux_coredump/)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <!--
-**inkhz007/inkhz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ink-hz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ink-hz&layout=compact&hide=html)
+-->
 
