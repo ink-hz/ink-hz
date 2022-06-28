@@ -8,7 +8,7 @@
 
 ### 最新的博客文章
 
-**个人技术博客地址**：[千里之行](www.ink-hz.cn)
+**个人技术博客地址**：[千里之行，始于足下](www.ink-hz.cn)
 
 <!-- BLOG-POST-LIST:START -->
 - [【C】《C程序设计语言》-笔记](http://www.ink-hz.cn/2022/03/23/Language/C/The-C-Programming-Language/)
