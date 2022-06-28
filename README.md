@@ -7,10 +7,13 @@
 
 
 ### 最新的博客文章
+
+**个人技术博客地址**：[千里之行](www.ink-hz.cn)
+
 <!-- BLOG-POST-LIST:START -->
-- [Linux 如何使用capabilities机制实现进程权限管理](http://www.ink-hz.cn/2021/08/02/Linux/Linux_capabilities/)
-- [【算法】常见排序算法分析](http://www.ink-hz.cn/2020/10/14/algorithm/sort/)
-- [Linux coredump机制](http://www.ink-hz.cn/2020/08/08/Linux/Linux_coredump/)
+- [【C】《C程序设计语言》-笔记](http://www.ink-hz.cn/2022/03/23/Language/C/The-C-Programming-Language/)
+- [【Linux】cpu性能问题排查](http://www.ink-hz.cn/2021/12/26/Linux/Linux_cpu/)
+- [【操作系统】hello world 编译过程](http://www.ink-hz.cn/2021/10/10/computer-system/gcc-compile/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
