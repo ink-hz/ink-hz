@@ -13,11 +13,13 @@
 - [【操作系统】hello world 编译过程](http://www.ink-hz.cn/2021/10/10/computer-system/gcc-compile/)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
-<!--
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ink-hz&show_icons=true&theme=radical)
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ink-hz&layout=compact&hide=html)
--->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ink-hz&show_icons=true&theme=radical)
+
+---
+
+<br/>
 
