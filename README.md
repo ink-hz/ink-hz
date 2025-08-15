@@ -177,24 +177,3 @@ print(me.current_status())
 </div>
 
 ---
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "Talk is cheap. Show me the code." - Linus Torvalds                       ║
-║                                                                              ║
-║   Thanks for visiting! ⭐ Star some repos if you found them interesting!     ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/ink-hz/ink-hz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
