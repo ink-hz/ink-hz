@@ -145,7 +145,7 @@ timeline
 
 ## 🏗️ Featured Projects
 
-### 🎯 RoboCloud - 机器人云管理平台 (开发中)
+### 🎯 [RoboticsPlatform](https://github.com/ink-hz/RoboticsPlatform) - 机器人云管理平台 (MVP已完成)
 > 基于Kubernetes的多机器人fleet管理平台
 
 ```yaml
@@ -160,9 +160,12 @@ timeline
 **核心功能**:
 - ✅ 多机器人生命周期管理
 - ✅ 实时数据流处理管道
+- ✅ MVP基础架构完成
 - 🚧 OTA模型更新系统
 - 🚧 云边协同调度器
 - ⏳ 数字孪生仿真环境
+
+**项目地址**: [github.com/ink-hz/RoboticsPlatform](https://github.com/ink-hz/RoboticsPlatform)
 
 ### 🔧 Edge-Inference-Optimizer
 > 边缘设备AI模型推理优化工具链
@@ -208,12 +211,31 @@ timeline
 
 ## 📝 Latest Blog Posts
 
+<div align="center">
+
+```bash
+# 博客建设中...
+$ curl -s https://www.ink-hz.cn/api/posts | jq '.status'
+{
+  "status": "under_construction",
+  "message": "正在整理机器人云平台架构相关技术博客",
+  "planned_posts": [
+    "构建千万级机器人云平台的架构设计",
+    "Kubernetes Operator在机器人领域的实践",
+    "边缘设备AI模型推理优化实战", 
+    "ROS2与云原生架构的融合探索",
+    "MLOps在机器人数据闭环中的应用"
+  ],
+  "expected_launch": "2025 Q4"
+}
+```
+
+**📚 即将发布**：深度技术博客正在创作中，敬请期待！
+
+</div>
+
 <!-- BLOG-POST-LIST:START -->
-- [【架构】构建千万级机器人云平台的挑战与实践](http://www.ink-hz.cn/2025/01/robotics-cloud-platform/)
-- [【K8s】深入理解Operator模式与CRD设计](http://www.ink-hz.cn/2025/01/k8s-operator-pattern/)
-- [【边缘计算】在Jetson Orin上优化YOLOv8推理性能](http://www.ink-hz.cn/2024/12/edge-inference-optimization/)
-- [【ROS2】从ROS迁移到ROS2的架构演进](http://www.ink-hz.cn/2024/12/ros-to-ros2-migration/)
-- [【MLOps】使用Kubeflow构建机器人模型训练流水线](http://www.ink-hz.cn/2024/11/mlops-kubeflow-pipeline/)
+<!-- 博客文章将在这里自动更新 -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Professional Focus Areas
