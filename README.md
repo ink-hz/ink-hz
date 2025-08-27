@@ -211,8 +211,6 @@ timeline
 
 ## 📝 Latest Blog Posts
 
-<div align="center">
-
 ```bash
 # 博客建设中...
 $ curl -s https://www.ink-hz.cn/api/posts | jq '.status'
@@ -229,6 +227,8 @@ $ curl -s https://www.ink-hz.cn/api/posts | jq '.status'
   "expected_launch": "2025 Q4"
 }
 ```
+
+<div align="center">
 
 **📚 即将发布**：深度技术博客正在创作中，敬请期待！
 
