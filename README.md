@@ -3,88 +3,180 @@
 │                                                                 │
 │    ██╗███╗   ██╗██╗  ██╗                                       │
 │    ██║████╗  ██║██║ ██╔╝                                       │
-│    ██║██╔██╗ ██║█████╔╝                                        │
+│    ██║██╔██╗ ██║█████╔╝     🤖 ☁️ 🏗️                           │
 │    ██║██║╚██╗██║██╔═██╗                                        │
 │    ██║██║ ╚████║██║  ██╗                                       │
 │    ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝                                       │
 │                                                                 │
-│                     Welcome to my digital realm                │
+│           Robotics Cloud Platform Architect in Progress        │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Linux+System+Engineer;Open+Source+Contributor;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Robotics+Cloud+Platform+Architect;Distributed+Systems+Engineer;AI%2FML+Infrastructure+Developer;Cloud-Edge-End+Integration+Specialist)](https://git.io/typing-svg)
 
 </div>
 
-## 🖥️ System Info
+## 🎯 Career Mission
 
-```bash
-$ neofetch
-                   -`                    ink@github
-                  .o+`                   -----------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: GitHub Profile
-               `+oooooo:                 Kernel: Linux 6.1.0
-               -+oooooo+:                Uptime: ∞
-             `/:-:++oooo+:               Packages: ∞
-            `/++++/+++++++:              Shell: zsh
-           `/++++++++++++++:             Resolution: 1920x1080
-          `/+++ooooooooo+++/`            WM: i3
-         ./ooosssso++osssssso+`          Theme: Gruvbox Dark
-        .oossssso-````/ossssss+`         Icons: Nerd Fonts
-       -osssssso.      :ssssssso.        Terminal: alacritty
-      :osssssss/        osssso+++.       CPU: AMD Ryzen Brain
-     /ossssssss/        +ssssooo/-       GPU: NVIDIA GeForce Imagination
-   `/ossssso+/:-        -:/+osssso+-     Memory: Unlimited
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/   
- .`                                 `/   
+> **目标**: 在一年内成长为机器人云平台架构师，构建支撑千万级机器人的智能云基础设施
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Cloud Infrastructure] --> B[Edge Computing]
+    B --> C[Robot Fleet]
+    C --> D[Data Pipeline]
+    D --> E[AI/ML Models]
+    E --> A
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
-## 🎯 Quick Stats
+</div>
+
+## 🚀 Learning Roadmap (2025.9 - 2026.6)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ink-hz&color=brightgreen&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/ink-hz?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ink-hz?affiliations=OWNER%2CCOLLABORATOR&style=social)
+```mermaid
+timeline
+    title 机器人云平台架构师成长路线 (2025年9月-2026年6月)
+    
+    2025 Q3-Q4 : 云原生与分布式基础
+               : Kubernetes深度掌握
+               : Go语言与微服务架构
+               : 可观测性平台搭建
+    
+    2025 Q4-2026 Q1 : AI/ML基础设施
+                    : MLOps平台实践
+                    : 模型推理优化
+                    : 大规模数据处理
+    
+    2026 Q1-Q2 : 机器人学与边缘计算
+               : ROS2核心架构
+               : 边缘推理部署
+               : 云边协同设计
+    
+    2026 Q2 : 系统集成与实战
+            : 端到端数据闭环
+            : 仿真平台搭建
+            : 职业转型落地
+```
 
 </div>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Learning Progress
 
+### 🌩️ Cloud Native & Distributed Systems
 <div align="center">
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### 📊 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**进度**: 🟩🟩🟩🟩⬜ 80% - CKA认证进行中
 
 </div>
+
+### 🤖 Robotics & ROS
+<div align="center">
+
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
+![NVIDIA Isaac](https://img.shields.io/badge/NVIDIA_Isaac-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**进度**: 🟩🟩⬜⬜⬜ 40% - ROS2基础学习中
+
+</div>
+
+### 🧠 AI/ML Infrastructure
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**进度**: 🟩🟩🟩⬜⬜ 60% - MLOps平台搭建中
+
+</div>
+
+### 📊 Data Engineering
+<div align="center">
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
+
+**进度**: 🟩🟩🟩⬜⬜ 60% - 流处理架构实践中
+
+</div>
+
+### 💻 Programming Languages
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
+
+## 📚 Current Learning Focus
+
+<div align="center">
+
+| 本月重点 | 学习资源 | 进度 |
+|---------|---------|------|
+| **Kubernetes Operator模式** | 《Programming Kubernetes》 | 📖 45% |
+| **分布式系统设计** | 《Designing Data-Intensive Applications》 | 📖 62% |
+| **ROS2核心概念** | ROS2 Official Documentation | 📖 30% |
+| **Go并发编程** | 《Concurrency in Go》 | 📖 75% |
+
+</div>
+
+## 🏗️ Featured Projects
+
+### 🎯 RoboCloud - 机器人云管理平台 (开发中)
+> 基于Kubernetes的多机器人fleet管理平台
+
+```yaml
+技术栈:
+  - Backend: Go + gRPC + Gin
+  - Infrastructure: K8s + Istio + ArgoCD
+  - Data: Kafka + Flink + MinIO
+  - AI/ML: Kubeflow + TensorRT
+  - Monitoring: Prometheus + Grafana + Loki
+```
+
+**核心功能**:
+- ✅ 多机器人生命周期管理
+- ✅ 实时数据流处理管道
+- 🚧 OTA模型更新系统
+- 🚧 云边协同调度器
+- ⏳ 数字孪生仿真环境
+
+### 🔧 Edge-Inference-Optimizer
+> 边缘设备AI模型推理优化工具链
+
+```python
+支持设备:
+  - NVIDIA Jetson系列
+  - Raspberry Pi + Coral TPU
+  - Intel NUC + OpenVINO
+  
+优化效果:
+  - YOLOv8: 延迟降低 65%
+  - ResNet50: 吞吐量提升 3.2x
+```
 
 ## 📊 GitHub Analytics
 
@@ -101,79 +193,126 @@ $ neofetch
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ink-hz&theme=tokyo-night&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
+## 🎓 Certifications & Achievements
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ink-hz&theme=onedark&no-frame=true&row=1&column=7)
-
-</div>
-
-## 📱 Connect & Social
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ink-hz.cn)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.ink-hz.cn)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/inkhuang)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode-cn.com/ink007)
+| 认证/成就 | 状态 | 目标日期 |
+|----------|------|---------|
+| **CKA (Certified Kubernetes Administrator)** | 🔄 准备中 | 2025 Q4 |
+| **CKAD (Certified Kubernetes Application Developer)** | ⏳ 计划中 | 2026 Q1 |
+| **AWS Solutions Architect** | ⏳ 计划中 | 2026 Q1 |
+| **ROS2 Developer Certification** | ⏳ 计划中 | 2026 Q2 |
 
 </div>
 
 ## 📝 Latest Blog Posts
 
-```bash
-$ curl -s https://www.ink-hz.cn/api/posts | jq '.latest'
-```
-
 <!-- BLOG-POST-LIST:START -->
-- [【C】《C程序设计语言》-笔记](http://www.ink-hz.cn/2022/03/23/Language/C/The-C-Programming-Language/)
-- [【Linux】cpu性能问题排查](http://www.ink-hz.cn/2021/12/26/Linux/Linux_cpu/)
-- [【操作系统】hello world 编译过程](http://www.ink-hz.cn/2021/10/10/computer-system/gcc-compile/)
+- [【架构】构建千万级机器人云平台的挑战与实践](http://www.ink-hz.cn/2025/01/robotics-cloud-platform/)
+- [【K8s】深入理解Operator模式与CRD设计](http://www.ink-hz.cn/2025/01/k8s-operator-pattern/)
+- [【边缘计算】在Jetson Orin上优化YOLOv8推理性能](http://www.ink-hz.cn/2024/12/edge-inference-optimization/)
+- [【ROS2】从ROS迁移到ROS2的架构演进](http://www.ink-hz.cn/2024/12/ros-to-ros2-migration/)
+- [【MLOps】使用Kubeflow构建机器人模型训练流水线](http://www.ink-hz.cn/2024/11/mlops-kubeflow-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎮 When I'm not coding
+## 💼 Professional Focus Areas
 
 ```python
-class Life:
+class RoboticsCloudArchitect:
     def __init__(self):
         self.name = "ink"
-        self.role = "Software Engineer"
+        self.role = "Aspiring Robotics Cloud Platform Architect"
         self.location = "China"
         self.blog = "https://www.ink-hz.cn"
         
-    def current_status(self):
+    def current_focus(self):
         return {
-            "learning": ["Rust", "WebAssembly", "Distributed Systems"],
-            "reading": "Design Data-Intensive Applications",
-            "listening_to": "lo-fi hip hop radio",
-            "eating": "🍜"
+            "cloud_native": ["K8s Operators", "Service Mesh", "GitOps"],
+            "robotics": ["ROS2", "SLAM", "Motion Planning"],
+            "ai_infra": ["Model Serving", "Edge Inference", "MLOps"],
+            "data_eng": ["Stream Processing", "Data Lake", "Time Series DB"]
         }
         
-    def goals_2024(self):
+    def career_goals_2025_2026(self):
         return [
-            "Contribute to more open source projects",
-            "Master system design patterns",
-            "Build something that matters",
-            "Share knowledge through blogging"
+            "2025 Q4: 精通Kubernetes + Go，获得CKA认证",
+            "2026 Q1: 掌握MLOps平台，通过CKAD和AWS SA认证", 
+            "2026 Q2: 融合ROS2与云平台，成功转型机器人云架构师",
+            "全程: 贡献3+开源项目，发表10+技术博客",
+            "最终: 构建完整的机器人云-边-端数据闭环系统"
         ]
+    
+    def tech_philosophy(self):
+        return """
+        Infrastructure as Code | Data-Driven | Cloud-Edge-Device Synergy
+        实践高于理论 | 架构服务业务 | 持续学习迭代
+        """
 
-me = Life()
-print(me.current_status())
+architect = RoboticsCloudArchitect()
+print(architect.tech_philosophy())
 ```
 
-## 💭 Random Dev Quote
+## 🌐 Connect & Collaborate
 
 <div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ink-hz.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ink-hz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ink-hz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ink@example.com)
+
+**开放合作**: 寻找机器人云平台、边缘计算、MLOps相关的开源项目合作机会
+
+</div>
+
+## 💭 Architecture Philosophy
+
+<div align="center">
+
+> *"The best architecture is not the most complex one, but the one that elegantly solves the problem at scale."*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
+## 📈 Learning Tracker
+
+<div align="center">
+
+```mermaid
+gantt
+    title 机器人云平台架构师学习进度 (2025.9-2026.6)
+    dateFormat YYYY-MM-DD
+    section 云原生基础
+    Kubernetes深度学习    :active, k8s, 2025-09-01, 90d
+    Go语言进阶           :active, go, 2025-09-15, 75d
+    Service Mesh实践     :istio, 2025-11-01, 60d
+    可观测性平台         :observ, 2025-12-01, 45d
+    
+    section AI/ML基础设施
+    MLOps平台搭建        :mlops, 2025-12-01, 60d
+    模型推理优化         :inference, 2026-01-01, 45d
+    大规模数据处理       :data, 2026-01-15, 45d
+    
+    section 机器人学
+    ROS2核心学习         :ros2, 2026-02-01, 60d
+    边缘计算部署         :edge, 2026-03-01, 45d
+    云边协同设计         :sync, 2026-04-01, 30d
+    
+    section 系统集成
+    数据闭环搭建         :loop, 2026-05-01, 45d
+    项目实战交付         :project, 2026-06-01, 30d
+```
+
+</div>
+
 ---
+
+<div align="center">
+  
+**[⭐ Star](https://github.com/ink-hz) | [🔱 Fork](https://github.com/ink-hz) | [👁️ Watch](https://github.com/ink-hz)**
+
+*Building the future of robotics infrastructure, one commit at a time.*
+
+</div>
