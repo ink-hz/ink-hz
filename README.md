@@ -145,25 +145,32 @@ timeline
 
 ## 🏗️ Featured Projects
 
-### 🎯 [RoboticsPlatform](https://github.com/ink-hz/RoboticsPlatform) - 机器人云管理平台 (MVP已完成)
-> 基于Kubernetes的多机器人fleet管理平台
+### 🤖 [RoboticsPlatform](https://github.com/ink-hz/RoboticsPlatform) - 机器人云平台 (Robot Cloud Platform)
+![Platform Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-purple?style=flat-square&logo=ros)
+![Docker](https://img.shields.io/badge/Docker-20.10+-2496ED?style=flat-square&logo=docker)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-```yaml
-技术栈:
-  - Backend: Go + gRPC + Gin
-  - Infrastructure: K8s + Istio + ArgoCD
-  - Data: Kafka + Flink + MinIO
-  - AI/ML: Kubeflow + TensorRT
-  - Monitoring: Prometheus + Grafana + Loki
-```
+> 一个现代化的端到端机器人云平台，实现云-边-端一体化的数据处理、监控和管理
 
-**核心功能**:
-- ✅ 多机器人生命周期管理
-- ✅ 实时数据流处理管道
-- ✅ MVP基础架构完成
-- 🚧 OTA模型更新系统
-- 🚧 云边协同调度器
-- ⏳ 数字孪生仿真环境
+#### ✨ 平台特性
+
+**🌟 核心功能**
+- 🎯 **实时数据处理** - 处理机器人遥测、传感器和状态数据
+- 📊 **Web控制台** - 现代化的Vue.js管理界面，实时监控
+- 🔗 **ROS2集成** - 无缝连接Gazebo仿真和真实机器人
+- ☁️ **云原生架构** - 基于Kubernetes和微服务设计
+- 📈 **可视化监控** - Prometheus + Grafana监控体系
+- 🚀 **边缘计算** - 支持边缘部署和本地推理
+
+#### 🏗️ 技术架构
+- **后端**: Go 1.23 + Gin框架 (微秒级响应)
+- **前端**: Vue.js 3 + Tailwind CSS + ECharts
+- **数据库**: PostgreSQL + TimescaleDB + Redis
+- **消息队列**: Apache Kafka + NATS
+- **容器化**: Docker + Kubernetes
+- **机器人**: ROS2 Jazzy + Gazebo仿真
 
 **项目地址**: [github.com/ink-hz/RoboticsPlatform](https://github.com/ink-hz/RoboticsPlatform)
 
