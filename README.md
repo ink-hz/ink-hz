@@ -82,7 +82,7 @@ graph LR
 
 ## 📝 Latest Blog Posts
 
-> 技术博客: [www.ink-hz.cn](https://www.ink-hz.cn)
+> 技术博客: [www.inkbot.cn](http://www.inkbot.cn)
 
 | 文章 | 方向 |
 |------|------|
@@ -103,7 +103,7 @@ class AIApplicationArchitect:
         self.name = "ink"
         self.role = "AI Application Architect & Indie Developer"
         self.location = "China"
-        self.blog = "https://www.ink-hz.cn"
+        self.blog = "http://www.inkbot.cn"
 
     def current_focus(self):
         return {
@@ -138,7 +138,7 @@ architect = AIApplicationArchitect()
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ink-hz.cn)
+[![Website](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.inkbot.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ink-hz)
 
 **Open to collaborate on**: AI application architecture, LLM tooling, cloud native AI projects
