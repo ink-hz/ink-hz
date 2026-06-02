@@ -153,8 +153,8 @@ me = Ink()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ink-hz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ink-hz&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://ghstats.dev/api/card?username=ink-hz&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ink-hz&theme=tokyonight"/>
 
 </div>
 
