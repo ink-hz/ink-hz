@@ -1,0 +1,24 @@
+name: Update latest blog posts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-blog-posts.yml
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.6
+        with:
+          feed_list: http://www.inkbot.cn/rss.xml
+          max_post_count: 5
+          date_format: yyyy-mm-dd

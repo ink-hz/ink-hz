@@ -115,14 +115,8 @@ class RoboticsIntelligence:
 
 > 技术博客: [www.inkbot.cn](http://www.inkbot.cn)
 
-| 文章 | 方向 |
-|------|------|
-| **AI Agent Runtime 架构设计** | Agent 编排、工具使用与可靠运行 |
-| **企业级 AI Agent 系统构建** | 知识体系、工作流与工程实践 |
-| **LLM × 机器人：智能化探索** | 设计、研发与制造场景 |
-| **向量数据库与知识检索深度指南** | 结构化知识、元数据驱动、RAG演进 |
-| **Kubernetes与容器编排深度指南** | K8s架构、Operator模式、服务网格 |
-| **可观测性与监控深度指南** | OpenTelemetry、链路追踪、Agent审计 |
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 💼 Current Focus
 
